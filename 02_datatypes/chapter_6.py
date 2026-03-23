@@ -8,7 +8,7 @@
 # Everything inside quotes (" " or ' ') is considered a string.
 
 # -----------------------------------
-# ☕ Example Variables
+#  Example Variables
 # -----------------------------------
 chai_type = "Ginger chai"
 customer_name = "Alan Toro"
@@ -39,7 +39,7 @@ print(f"Last word: {chai_description[12:]}")
 print(f"Reversed: {chai_description[::-1]}")
 
 # -----------------------------------
-# 🌍 Encoding & Decoding
+# Encoding & Decoding
 # -----------------------------------
 # When working with special characters (like accents),
 # it's a good practice to encode strings using UTF-8.
