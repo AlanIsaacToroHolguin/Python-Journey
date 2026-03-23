@@ -1,3 +1,3 @@
-# 🐍 Aprendiendo Python
+# 🐍 Modo Python: ON
 
-Personal repository to document my Python learning journey
+A personal repository tracking my journey of learning and improving in Python.
